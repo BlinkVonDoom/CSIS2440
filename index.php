@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>David Rankin</title>
+  <title>David Rankin's Portfolio</title>
 
   <!-- Custom fonts for this theme -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -19,7 +19,6 @@
   <link href="css/freelancer.min.css" rel="stylesheet">
 
 </head>
-
 <body id="page-top">
 
   <!-- Navigation -->
@@ -165,10 +164,8 @@
             <img class="img-fluid" src="img/portfolio/submarine.png" alt="">
           </div>
         </div>
-
       </div>
       <!-- /.row -->
-
     </div>
   </section>
 
@@ -295,11 +292,11 @@
   </footer>
 
   <!-- Copyright Section -->
-  <!--<section class="copyright py-4 text-center text-white">
+  <section class="copyright py-4 text-center text-white">
     <div class="container">
       <small>Copyright &copy; Your Website 2019</small>
     </div>
-  </section> -->
+  </section> 
 
   <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
   <div class="scroll-to-top d-lg-none position-fixed ">
@@ -346,8 +343,8 @@
                 </div>
                 <div class='coursework-list'>
                   <h3>Classroom Exercises</h3>
-                  <div>1: Hello World <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
-                  <div>2: Random Events <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
+                  <div>1: Hello World <a class='assignment-icon fas fa-link' href='http://ec2-35-165-134-81.us-west-2.compute.amazonaws.com/CSIS2440/CE01/HelloWorld.php' target='_blank'></a> <a class='assignment-icon fas fa-file-code'  href='https://github.com/BlinkVonDoom/CSIS2440/blob/master/CSIS2440/CE01/HelloWorld.php' target='_blank'></a><br></div>
+                  <div>2: Random Events <a class='assignment-icon fas fa-link' href='http://ec2-35-165-134-81.us-west-2.compute.amazonaws.com/CSIS2440/CE02/RandomEvents.php' target='_blank'></a> <a class='assignment-icon fas fa-file-code'  href='https://github.com/BlinkVonDoom/CSIS2440/blob/master/CSIS2440/CE02/RandomEvents.php' target="_blank"></a><br></div>
                   <div>3: Using Forms and $_POST <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
                   <div>4: Reading from files <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
                   <div>5: Workbench Setup <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
@@ -361,10 +358,11 @@
                   <div>13: AJAX <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
                   <div>14: Shopping Cart <a class='assignment-icon fas fa-link' href='#'></a> <a class='assignment-icon fas fa-file-code'  href='#'></a><br></div>
                 </div>
-<!--                <button class="btn btn-primary" href="#" data-dismiss="modal">
+                <br>
+                <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
-                </button>-->
+                </button>
               </div>
             </div>
           </div>
@@ -387,7 +385,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">E Commerce</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -401,7 +399,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/cake.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This area is under construction.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -428,7 +426,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming Soon</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -440,9 +438,9 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/circus.png" alt="">
+                <img class="img-fluid rounded mb-5" src="img/aportfolio/circus.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This area is under construction.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -469,7 +467,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming Soon</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -483,7 +481,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/game.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This area is under construction.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -510,7 +508,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Cominc Soon</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -524,7 +522,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/safe.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This area is under construction.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -551,7 +549,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Coming Soon</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -565,7 +563,7 @@
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/submarine.png" alt="">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">This area is under construction.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -593,5 +591,4 @@
   <script src="js/freelancer.min.js"></script>
 
 </body>
-
 </html>
