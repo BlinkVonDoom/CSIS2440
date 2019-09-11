@@ -16,7 +16,7 @@
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
   <!-- Theme CSS -->
-  <link href="css/freelancer.min.css" rel="stylesheet">
+  <link href="css/freelancer.css" rel="stylesheet">
 
 </head>
 <body id="page-top">
@@ -261,7 +261,7 @@
   </section>-->
 
   <!-- Footer -->
-  <footer class="footer text-center">
+  <footer class="footer text-center bg-secondary">
     <div class="container">
       <div class="row">
 
