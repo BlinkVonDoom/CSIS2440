@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <?php
  include "IncludeMe.php";
- // print_r($_POST);
+ print_r($_POST);
  $theShip = $_POST['ship'];
  $Departure = $_POST['departure'];
  $Arrival = $_POST['arrival'];
@@ -28,7 +28,7 @@ and open the template in the editor.
                 height: 250px;
                 padding: 3pt;
             }
-            p{
+            p {
                 margin-left: 8px;
             }
         </style>
